@@ -14,6 +14,19 @@
 		E169FCED1CA8C61E00D35DD9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E169FCEB1CA8C61E00D35DD9 /* LaunchScreen.storyboard */; };
 		E169FCF81CA8C61F00D35DD9 /* TicTacToeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E169FCF71CA8C61F00D35DD9 /* TicTacToeTests.swift */; };
 		E169FD031CA8C61F00D35DD9 /* TicTacToeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E169FD021CA8C61F00D35DD9 /* TicTacToeUITests.swift */; };
+		E169FD1F1CA8DAF700D35DD9 /* battleField.png in Resources */ = {isa = PBXBuildFile; fileRef = E169FD1E1CA8DAF700D35DD9 /* battleField.png */; };
+		E169FD3F1CA8E5C900D35DD9 /* o2.png in Resources */ = {isa = PBXBuildFile; fileRef = E169FD3A1CA8E5C900D35DD9 /* o2.png */; };
+		E169FD401CA8E5C900D35DD9 /* o3.png in Resources */ = {isa = PBXBuildFile; fileRef = E169FD3B1CA8E5C900D35DD9 /* o3.png */; };
+		E169FD411CA8E5C900D35DD9 /* o4.png in Resources */ = {isa = PBXBuildFile; fileRef = E169FD3C1CA8E5C900D35DD9 /* o4.png */; };
+		E169FD421CA8E5C900D35DD9 /* o5.png in Resources */ = {isa = PBXBuildFile; fileRef = E169FD3D1CA8E5C900D35DD9 /* o5.png */; };
+		E169FD431CA8E5C900D35DD9 /* o1.png in Resources */ = {isa = PBXBuildFile; fileRef = E169FD3E1CA8E5C900D35DD9 /* o1.png */; };
+		E169FD4B1CA8EC2900D35DD9 /* x1.png in Resources */ = {isa = PBXBuildFile; fileRef = E169FD441CA8EC2900D35DD9 /* x1.png */; };
+		E169FD4C1CA8EC2900D35DD9 /* x2.png in Resources */ = {isa = PBXBuildFile; fileRef = E169FD451CA8EC2900D35DD9 /* x2.png */; };
+		E169FD4D1CA8EC2900D35DD9 /* x3.png in Resources */ = {isa = PBXBuildFile; fileRef = E169FD461CA8EC2900D35DD9 /* x3.png */; };
+		E169FD4E1CA8EC2900D35DD9 /* x4.png in Resources */ = {isa = PBXBuildFile; fileRef = E169FD471CA8EC2900D35DD9 /* x4.png */; };
+		E169FD4F1CA8EC2900D35DD9 /* x5.png in Resources */ = {isa = PBXBuildFile; fileRef = E169FD481CA8EC2900D35DD9 /* x5.png */; };
+		E169FD501CA8EC2900D35DD9 /* x6.png in Resources */ = {isa = PBXBuildFile; fileRef = E169FD491CA8EC2900D35DD9 /* x6.png */; };
+		E169FD511CA8EC2900D35DD9 /* x7.png in Resources */ = {isa = PBXBuildFile; fileRef = E169FD4A1CA8EC2900D35DD9 /* x7.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,19 +47,32 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		E169FCDF1CA8C61E00D35DD9 /* TicTacToe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TicTacToe.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E169FCDF1CA8C61E00D35DD9 /* Pokemon Tic Tac Toe App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pokemon Tic Tac Toe App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E169FCE21CA8C61E00D35DD9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E169FCE41CA8C61E00D35DD9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E169FCE71CA8C61E00D35DD9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E169FCE91CA8C61E00D35DD9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E169FCEC1CA8C61E00D35DD9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E169FCEE1CA8C61E00D35DD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E169FCF31CA8C61F00D35DD9 /* TicTacToeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TicTacToeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E169FCF31CA8C61F00D35DD9 /* Pokemon Tic Tac Toe App.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Pokemon Tic Tac Toe App.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E169FCF71CA8C61F00D35DD9 /* TicTacToeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacToeTests.swift; sourceTree = "<group>"; };
 		E169FCF91CA8C61F00D35DD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E169FCFE1CA8C61F00D35DD9 /* TicTacToeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TicTacToeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E169FCFE1CA8C61F00D35DD9 /* Pokemon Tic Tac Toe App.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Pokemon Tic Tac Toe App.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E169FD021CA8C61F00D35DD9 /* TicTacToeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacToeUITests.swift; sourceTree = "<group>"; };
 		E169FD041CA8C61F00D35DD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E169FD1E1CA8DAF700D35DD9 /* battleField.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = battleField.png; sourceTree = "<group>"; };
+		E169FD3A1CA8E5C900D35DD9 /* o2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = o2.png; sourceTree = "<group>"; };
+		E169FD3B1CA8E5C900D35DD9 /* o3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = o3.png; sourceTree = "<group>"; };
+		E169FD3C1CA8E5C900D35DD9 /* o4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = o4.png; sourceTree = "<group>"; };
+		E169FD3D1CA8E5C900D35DD9 /* o5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = o5.png; sourceTree = "<group>"; };
+		E169FD3E1CA8E5C900D35DD9 /* o1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = o1.png; sourceTree = "<group>"; };
+		E169FD441CA8EC2900D35DD9 /* x1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = x1.png; sourceTree = "<group>"; };
+		E169FD451CA8EC2900D35DD9 /* x2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = x2.png; sourceTree = "<group>"; };
+		E169FD461CA8EC2900D35DD9 /* x3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = x3.png; sourceTree = "<group>"; };
+		E169FD471CA8EC2900D35DD9 /* x4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = x4.png; sourceTree = "<group>"; };
+		E169FD481CA8EC2900D35DD9 /* x5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = x5.png; sourceTree = "<group>"; };
+		E169FD491CA8EC2900D35DD9 /* x6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = x6.png; sourceTree = "<group>"; };
+		E169FD4A1CA8EC2900D35DD9 /* x7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = x7.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,9 +113,9 @@
 		E169FCE01CA8C61E00D35DD9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E169FCDF1CA8C61E00D35DD9 /* TicTacToe.app */,
-				E169FCF31CA8C61F00D35DD9 /* TicTacToeTests.xctest */,
-				E169FCFE1CA8C61F00D35DD9 /* TicTacToeUITests.xctest */,
+				E169FCDF1CA8C61E00D35DD9 /* Pokemon Tic Tac Toe App.app */,
+				E169FCF31CA8C61F00D35DD9 /* Pokemon Tic Tac Toe App.xctest */,
+				E169FCFE1CA8C61F00D35DD9 /* Pokemon Tic Tac Toe App.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -97,6 +123,19 @@
 		E169FCE11CA8C61E00D35DD9 /* TicTacToe */ = {
 			isa = PBXGroup;
 			children = (
+				E169FD3A1CA8E5C900D35DD9 /* o2.png */,
+				E169FD3B1CA8E5C900D35DD9 /* o3.png */,
+				E169FD3C1CA8E5C900D35DD9 /* o4.png */,
+				E169FD3D1CA8E5C900D35DD9 /* o5.png */,
+				E169FD3E1CA8E5C900D35DD9 /* o1.png */,
+				E169FD441CA8EC2900D35DD9 /* x1.png */,
+				E169FD451CA8EC2900D35DD9 /* x2.png */,
+				E169FD461CA8EC2900D35DD9 /* x3.png */,
+				E169FD471CA8EC2900D35DD9 /* x4.png */,
+				E169FD481CA8EC2900D35DD9 /* x5.png */,
+				E169FD491CA8EC2900D35DD9 /* x6.png */,
+				E169FD4A1CA8EC2900D35DD9 /* x7.png */,
+				E169FD1E1CA8DAF700D35DD9 /* battleField.png */,
 				E169FCE21CA8C61E00D35DD9 /* AppDelegate.swift */,
 				E169FCE41CA8C61E00D35DD9 /* ViewController.swift */,
 				E169FCE61CA8C61E00D35DD9 /* Main.storyboard */,
@@ -128,9 +167,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E169FCDE1CA8C61E00D35DD9 /* TicTacToe */ = {
+		E169FCDE1CA8C61E00D35DD9 /* Pokemon Tic Tac Toe App */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E169FD071CA8C61F00D35DD9 /* Build configuration list for PBXNativeTarget "TicTacToe" */;
+			buildConfigurationList = E169FD071CA8C61F00D35DD9 /* Build configuration list for PBXNativeTarget "Pokemon Tic Tac Toe App" */;
 			buildPhases = (
 				E169FCDB1CA8C61E00D35DD9 /* Sources */,
 				E169FCDC1CA8C61E00D35DD9 /* Frameworks */,
@@ -140,14 +179,14 @@
 			);
 			dependencies = (
 			);
-			name = TicTacToe;
+			name = "Pokemon Tic Tac Toe App";
 			productName = TicTacToe;
-			productReference = E169FCDF1CA8C61E00D35DD9 /* TicTacToe.app */;
+			productReference = E169FCDF1CA8C61E00D35DD9 /* Pokemon Tic Tac Toe App.app */;
 			productType = "com.apple.product-type.application";
 		};
-		E169FCF21CA8C61F00D35DD9 /* TicTacToeTests */ = {
+		E169FCF21CA8C61F00D35DD9 /* Pokemon Tic Tac Toe AppTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E169FD0A1CA8C61F00D35DD9 /* Build configuration list for PBXNativeTarget "TicTacToeTests" */;
+			buildConfigurationList = E169FD0A1CA8C61F00D35DD9 /* Build configuration list for PBXNativeTarget "Pokemon Tic Tac Toe AppTests" */;
 			buildPhases = (
 				E169FCEF1CA8C61F00D35DD9 /* Sources */,
 				E169FCF01CA8C61F00D35DD9 /* Frameworks */,
@@ -158,14 +197,14 @@
 			dependencies = (
 				E169FCF51CA8C61F00D35DD9 /* PBXTargetDependency */,
 			);
-			name = TicTacToeTests;
+			name = "Pokemon Tic Tac Toe AppTests";
 			productName = TicTacToeTests;
-			productReference = E169FCF31CA8C61F00D35DD9 /* TicTacToeTests.xctest */;
+			productReference = E169FCF31CA8C61F00D35DD9 /* Pokemon Tic Tac Toe App.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		E169FCFD1CA8C61F00D35DD9 /* TicTacToeUITests */ = {
+		E169FCFD1CA8C61F00D35DD9 /* Pokemon Tic Tac Toe AppUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E169FD0D1CA8C61F00D35DD9 /* Build configuration list for PBXNativeTarget "TicTacToeUITests" */;
+			buildConfigurationList = E169FD0D1CA8C61F00D35DD9 /* Build configuration list for PBXNativeTarget "Pokemon Tic Tac Toe AppUITests" */;
 			buildPhases = (
 				E169FCFA1CA8C61F00D35DD9 /* Sources */,
 				E169FCFB1CA8C61F00D35DD9 /* Frameworks */,
@@ -176,9 +215,9 @@
 			dependencies = (
 				E169FD001CA8C61F00D35DD9 /* PBXTargetDependency */,
 			);
-			name = TicTacToeUITests;
+			name = "Pokemon Tic Tac Toe AppUITests";
 			productName = TicTacToeUITests;
-			productReference = E169FCFE1CA8C61F00D35DD9 /* TicTacToeUITests.xctest */;
+			productReference = E169FCFE1CA8C61F00D35DD9 /* Pokemon Tic Tac Toe App.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -193,6 +232,7 @@
 				TargetAttributes = {
 					E169FCDE1CA8C61E00D35DD9 = {
 						CreatedOnToolsVersion = 7.1.1;
+						DevelopmentTeam = E7A9T96R76;
 					};
 					E169FCF21CA8C61F00D35DD9 = {
 						CreatedOnToolsVersion = 7.1.1;
@@ -204,7 +244,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E169FCDA1CA8C61E00D35DD9 /* Build configuration list for PBXProject "TicTacToe" */;
+			buildConfigurationList = E169FCDA1CA8C61E00D35DD9 /* Build configuration list for PBXProject "Pokemon Tic Tac Toe App" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -217,9 +257,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E169FCDE1CA8C61E00D35DD9 /* TicTacToe */,
-				E169FCF21CA8C61F00D35DD9 /* TicTacToeTests */,
-				E169FCFD1CA8C61F00D35DD9 /* TicTacToeUITests */,
+				E169FCDE1CA8C61E00D35DD9 /* Pokemon Tic Tac Toe App */,
+				E169FCF21CA8C61F00D35DD9 /* Pokemon Tic Tac Toe AppTests */,
+				E169FCFD1CA8C61F00D35DD9 /* Pokemon Tic Tac Toe AppUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -229,8 +269,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E169FD4E1CA8EC2900D35DD9 /* x4.png in Resources */,
+				E169FD4B1CA8EC2900D35DD9 /* x1.png in Resources */,
+				E169FD431CA8E5C900D35DD9 /* o1.png in Resources */,
+				E169FD3F1CA8E5C900D35DD9 /* o2.png in Resources */,
+				E169FD4C1CA8EC2900D35DD9 /* x2.png in Resources */,
+				E169FD4D1CA8EC2900D35DD9 /* x3.png in Resources */,
+				E169FD4F1CA8EC2900D35DD9 /* x5.png in Resources */,
 				E169FCED1CA8C61E00D35DD9 /* LaunchScreen.storyboard in Resources */,
+				E169FD511CA8EC2900D35DD9 /* x7.png in Resources */,
 				E169FCEA1CA8C61E00D35DD9 /* Assets.xcassets in Resources */,
+				E169FD1F1CA8DAF700D35DD9 /* battleField.png in Resources */,
+				E169FD501CA8EC2900D35DD9 /* x6.png in Resources */,
+				E169FD411CA8E5C900D35DD9 /* o4.png in Resources */,
+				E169FD401CA8E5C900D35DD9 /* o3.png in Resources */,
+				E169FD421CA8E5C900D35DD9 /* o5.png in Resources */,
 				E169FCE81CA8C61E00D35DD9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -282,12 +335,12 @@
 /* Begin PBXTargetDependency section */
 		E169FCF51CA8C61F00D35DD9 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E169FCDE1CA8C61E00D35DD9 /* TicTacToe */;
+			target = E169FCDE1CA8C61E00D35DD9 /* Pokemon Tic Tac Toe App */;
 			targetProxy = E169FCF41CA8C61F00D35DD9 /* PBXContainerItemProxy */;
 		};
 		E169FD001CA8C61F00D35DD9 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E169FCDE1CA8C61E00D35DD9 /* TicTacToe */;
+			target = E169FCDE1CA8C61E00D35DD9 /* Pokemon Tic Tac Toe App */;
 			targetProxy = E169FCFF1CA8C61F00D35DD9 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -397,10 +450,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = TicTacToe/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.slcc.csis2640.TicTacToe;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Pokemon Tic Tac Toe App";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -408,10 +465,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = TicTacToe/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.slcc.csis2640.TicTacToe;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Pokemon Tic Tac Toe App";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -422,8 +483,8 @@
 				INFOPLIST_FILE = TicTacToeTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.slcc.csis2640.TicTacToeTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TicTacToe.app/TicTacToe";
+				PRODUCT_NAME = "Pokemon Tic Tac Toe App";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Pokemon Tic Tac Toe App.app/Pokemon Tic Tac Toe App";
 			};
 			name = Debug;
 		};
@@ -434,8 +495,8 @@
 				INFOPLIST_FILE = TicTacToeTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.slcc.csis2640.TicTacToeTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TicTacToe.app/TicTacToe";
+				PRODUCT_NAME = "Pokemon Tic Tac Toe App";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Pokemon Tic Tac Toe App.app/Pokemon Tic Tac Toe App";
 			};
 			name = Release;
 		};
@@ -445,7 +506,7 @@
 				INFOPLIST_FILE = TicTacToeUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.slcc.csis2640.TicTacToeUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Pokemon Tic Tac Toe App";
 				TEST_TARGET_NAME = TicTacToe;
 				USES_XCTRUNNER = YES;
 			};
@@ -457,7 +518,7 @@
 				INFOPLIST_FILE = TicTacToeUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.slcc.csis2640.TicTacToeUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Pokemon Tic Tac Toe App";
 				TEST_TARGET_NAME = TicTacToe;
 				USES_XCTRUNNER = YES;
 			};
@@ -466,7 +527,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E169FCDA1CA8C61E00D35DD9 /* Build configuration list for PBXProject "TicTacToe" */ = {
+		E169FCDA1CA8C61E00D35DD9 /* Build configuration list for PBXProject "Pokemon Tic Tac Toe App" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E169FD051CA8C61F00D35DD9 /* Debug */,
@@ -475,29 +536,32 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E169FD071CA8C61F00D35DD9 /* Build configuration list for PBXNativeTarget "TicTacToe" */ = {
+		E169FD071CA8C61F00D35DD9 /* Build configuration list for PBXNativeTarget "Pokemon Tic Tac Toe App" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E169FD081CA8C61F00D35DD9 /* Debug */,
 				E169FD091CA8C61F00D35DD9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		E169FD0A1CA8C61F00D35DD9 /* Build configuration list for PBXNativeTarget "TicTacToeTests" */ = {
+		E169FD0A1CA8C61F00D35DD9 /* Build configuration list for PBXNativeTarget "Pokemon Tic Tac Toe AppTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E169FD0B1CA8C61F00D35DD9 /* Debug */,
 				E169FD0C1CA8C61F00D35DD9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		E169FD0D1CA8C61F00D35DD9 /* Build configuration list for PBXNativeTarget "TicTacToeUITests" */ = {
+		E169FD0D1CA8C61F00D35DD9 /* Build configuration list for PBXNativeTarget "Pokemon Tic Tac Toe AppUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E169FD0E1CA8C61F00D35DD9 /* Debug */,
 				E169FD0F1CA8C61F00D35DD9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

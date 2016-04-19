@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E169FCDE1CA8C61E00D35DD9"
-               BuildableName = "TicTacToe.app"
-               BlueprintName = "TicTacToe"
-               ReferencedContainer = "container:TicTacToe.xcodeproj">
+               BuildableName = "Pokemon Tic Tac Toe App.app"
+               BlueprintName = "Pokemon Tic Tac Toe App"
+               ReferencedContainer = "container:Pokemon Tic Tac Toe App.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E169FCF21CA8C61F00D35DD9"
-               BuildableName = "TicTacToeTests.xctest"
-               BlueprintName = "TicTacToeTests"
-               ReferencedContainer = "container:TicTacToe.xcodeproj">
+               BuildableName = "Pokemon Tic Tac Toe App.xctest"
+               BlueprintName = "Pokemon Tic Tac Toe AppTests"
+               ReferencedContainer = "container:Pokemon Tic Tac Toe App.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E169FCFD1CA8C61F00D35DD9"
-               BuildableName = "TicTacToeUITests.xctest"
-               BlueprintName = "TicTacToeUITests"
-               ReferencedContainer = "container:TicTacToe.xcodeproj">
+               BuildableName = "Pokemon Tic Tac Toe App.xctest"
+               BlueprintName = "Pokemon Tic Tac Toe AppUITests"
+               ReferencedContainer = "container:Pokemon Tic Tac Toe App.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E169FCDE1CA8C61E00D35DD9"
-            BuildableName = "TicTacToe.app"
-            BlueprintName = "TicTacToe"
-            ReferencedContainer = "container:TicTacToe.xcodeproj">
+            BuildableName = "Pokemon Tic Tac Toe App.app"
+            BlueprintName = "Pokemon Tic Tac Toe App"
+            ReferencedContainer = "container:Pokemon Tic Tac Toe App.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E169FCDE1CA8C61E00D35DD9"
-            BuildableName = "TicTacToe.app"
-            BlueprintName = "TicTacToe"
-            ReferencedContainer = "container:TicTacToe.xcodeproj">
+            BuildableName = "Pokemon Tic Tac Toe App.app"
+            BlueprintName = "Pokemon Tic Tac Toe App"
+            ReferencedContainer = "container:Pokemon Tic Tac Toe App.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E169FCDE1CA8C61E00D35DD9"
-            BuildableName = "TicTacToe.app"
-            BlueprintName = "TicTacToe"
-            ReferencedContainer = "container:TicTacToe.xcodeproj">
+            BuildableName = "Pokemon Tic Tac Toe App.app"
+            BlueprintName = "Pokemon Tic Tac Toe App"
+            ReferencedContainer = "container:Pokemon Tic Tac Toe App.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
